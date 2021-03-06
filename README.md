@@ -1,6 +1,10 @@
 <html>
-    <h2 style ="text-aling: center; color: Gold">Танцывальный WEEKENDS!</h2>
-    <h1 style ="text-aling: center; color: ForestGreen">EH</h1>
+    h2 {
+    Танцывальный WEEKENDS!
+       }
+    h1 {
+    EH
+       }
     <p>Я бы хотела бы вам рассказать о прекрастном месте - EH - или точнее, как читается - икша!</p>
     <h3 style ="text-aling: center">ПЛЮСЫ</h3>
     <p>1) Очень хорошие номера!</p>
